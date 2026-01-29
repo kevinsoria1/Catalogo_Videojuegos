@@ -1,0 +1,101 @@
+F:\Downloads\Login1\Login1\obj\Debug\net8.0-windows\Login1.csproj.AssemblyReference.cache
+F:\Downloads\Login1\Login1\obj\Debug\net8.0-windows\Login1.Form1.resources
+F:\Downloads\Login1\Login1\obj\Debug\net8.0-windows\Login1.Form2.resources
+F:\Downloads\Login1\Login1\obj\Debug\net8.0-windows\Login1.Properties.Resources.resources
+F:\Downloads\Login1\Login1\obj\Debug\net8.0-windows\Login1.csproj.GenerateResource.cache
+F:\Downloads\Login1\Login1\obj\Debug\net8.0-windows\Login1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Downloads\Login1\Login1\obj\Debug\net8.0-windows\Login1.AssemblyInfoInputs.cache
+F:\Downloads\Login1\Login1\obj\Debug\net8.0-windows\Login1.AssemblyInfo.cs
+F:\Downloads\Login1\Login1\obj\Debug\net8.0-windows\Login1.csproj.CoreCompileInputs.cache
+F:\Downloads\Login1\Login1\bin\Debug\net8.0-windows\Login1.exe
+F:\Downloads\Login1\Login1\bin\Debug\net8.0-windows\Login1.deps.json
+F:\Downloads\Login1\Login1\bin\Debug\net8.0-windows\Login1.runtimeconfig.json
+F:\Downloads\Login1\Login1\bin\Debug\net8.0-windows\Login1.dll
+F:\Downloads\Login1\Login1\bin\Debug\net8.0-windows\Login1.pdb
+F:\Downloads\Login1\Login1\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+F:\Downloads\Login1\Login1\bin\Debug\net8.0-windows\Google.Protobuf.dll
+F:\Downloads\Login1\Login1\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+F:\Downloads\Login1\Login1\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+F:\Downloads\Login1\Login1\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+F:\Downloads\Login1\Login1\bin\Debug\net8.0-windows\MySql.Data.dll
+F:\Downloads\Login1\Login1\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+F:\Downloads\Login1\Login1\bin\Debug\net8.0-windows\ZstdSharp.dll
+F:\Downloads\Login1\Login1\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+F:\Downloads\Login1\Login1\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+F:\Downloads\Login1\Login1\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+F:\Downloads\Login1\Login1\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+F:\Downloads\Login1\Login1\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+F:\Downloads\Login1\Login1\obj\Debug\net8.0-windows\Login1.csproj.Up2Date
+F:\Downloads\Login1\Login1\obj\Debug\net8.0-windows\Login1.dll
+F:\Downloads\Login1\Login1\obj\Debug\net8.0-windows\refint\Login1.dll
+F:\Downloads\Login1\Login1\obj\Debug\net8.0-windows\Login1.pdb
+F:\Downloads\Login1\Login1\obj\Debug\net8.0-windows\Login1.genruntimeconfig.cache
+F:\Downloads\Login1\Login1\obj\Debug\net8.0-windows\ref\Login1.dll
+C:\Users\User\Desktop\CARPETA DAM\DISEÑO INTERFACES\Login1\obj\Debug\net8.0-windows\Login1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CARPETA DAM\DISEÑO INTERFACES\Login1\obj\Debug\net8.0-windows\Login1.Form1.resources
+C:\Users\User\Desktop\CARPETA DAM\DISEÑO INTERFACES\Login1\obj\Debug\net8.0-windows\Login1.Form2.resources
+C:\Users\User\Desktop\CARPETA DAM\DISEÑO INTERFACES\Login1\obj\Debug\net8.0-windows\Login1.Properties.Resources.resources
+C:\Users\User\Desktop\CARPETA DAM\DISEÑO INTERFACES\Login1\obj\Debug\net8.0-windows\Login1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CARPETA DAM\DISEÑO INTERFACES\Login1\obj\Debug\net8.0-windows\Login1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CARPETA DAM\DISEÑO INTERFACES\Login1\obj\Debug\net8.0-windows\Login1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CARPETA DAM\DISEÑO INTERFACES\Login1\obj\Debug\net8.0-windows\Login1.AssemblyInfo.cs
+C:\Users\User\Desktop\CARPETA DAM\DISEÑO INTERFACES\Login1\obj\Debug\net8.0-windows\Login1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CARPETA DAM\DISEÑO INTERFACES\Login1\bin\Debug\net8.0-windows\Login1.exe
+C:\Users\User\Desktop\CARPETA DAM\DISEÑO INTERFACES\Login1\bin\Debug\net8.0-windows\Login1.deps.json
+C:\Users\User\Desktop\CARPETA DAM\DISEÑO INTERFACES\Login1\bin\Debug\net8.0-windows\Login1.runtimeconfig.json
+C:\Users\User\Desktop\CARPETA DAM\DISEÑO INTERFACES\Login1\bin\Debug\net8.0-windows\Login1.dll
+C:\Users\User\Desktop\CARPETA DAM\DISEÑO INTERFACES\Login1\bin\Debug\net8.0-windows\Login1.pdb
+C:\Users\User\Desktop\CARPETA DAM\DISEÑO INTERFACES\Login1\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\User\Desktop\CARPETA DAM\DISEÑO INTERFACES\Login1\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\User\Desktop\CARPETA DAM\DISEÑO INTERFACES\Login1\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\User\Desktop\CARPETA DAM\DISEÑO INTERFACES\Login1\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Desktop\CARPETA DAM\DISEÑO INTERFACES\Login1\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\User\Desktop\CARPETA DAM\DISEÑO INTERFACES\Login1\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\User\Desktop\CARPETA DAM\DISEÑO INTERFACES\Login1\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\User\Desktop\CARPETA DAM\DISEÑO INTERFACES\Login1\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\User\Desktop\CARPETA DAM\DISEÑO INTERFACES\Login1\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\User\Desktop\CARPETA DAM\DISEÑO INTERFACES\Login1\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\User\Desktop\CARPETA DAM\DISEÑO INTERFACES\Login1\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\User\Desktop\CARPETA DAM\DISEÑO INTERFACES\Login1\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\User\Desktop\CARPETA DAM\DISEÑO INTERFACES\Login1\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\User\Desktop\CARPETA DAM\DISEÑO INTERFACES\Login1\obj\Debug\net8.0-windows\Login1.csproj.Up2Date
+C:\Users\User\Desktop\CARPETA DAM\DISEÑO INTERFACES\Login1\obj\Debug\net8.0-windows\Login1.dll
+C:\Users\User\Desktop\CARPETA DAM\DISEÑO INTERFACES\Login1\obj\Debug\net8.0-windows\refint\Login1.dll
+C:\Users\User\Desktop\CARPETA DAM\DISEÑO INTERFACES\Login1\obj\Debug\net8.0-windows\Login1.pdb
+C:\Users\User\Desktop\CARPETA DAM\DISEÑO INTERFACES\Login1\obj\Debug\net8.0-windows\Login1.genruntimeconfig.cache
+C:\Users\User\Desktop\CARPETA DAM\DISEÑO INTERFACES\Login1\obj\Debug\net8.0-windows\ref\Login1.dll
+C:\Users\User\Desktop\CARPETA DAM\DISEÑO INTERFACES\Login1\obj\Debug\net8.0-windows\Login1.sourcelink.json
+C:\Users\Kevin1\Downloads\Login_Terminado\Login1\obj\Debug\net8.0-windows\Login1.csproj.AssemblyReference.cache
+C:\Users\Kevin1\Downloads\Login_Terminado\Login1\bin\Debug\net8.0-windows\Login1.exe
+C:\Users\Kevin1\Downloads\Login_Terminado\Login1\bin\Debug\net8.0-windows\Login1.deps.json
+C:\Users\Kevin1\Downloads\Login_Terminado\Login1\bin\Debug\net8.0-windows\Login1.runtimeconfig.json
+C:\Users\Kevin1\Downloads\Login_Terminado\Login1\bin\Debug\net8.0-windows\Login1.dll
+C:\Users\Kevin1\Downloads\Login_Terminado\Login1\bin\Debug\net8.0-windows\Login1.pdb
+C:\Users\Kevin1\Downloads\Login_Terminado\Login1\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Kevin1\Downloads\Login_Terminado\Login1\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Kevin1\Downloads\Login_Terminado\Login1\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Kevin1\Downloads\Login_Terminado\Login1\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Kevin1\Downloads\Login_Terminado\Login1\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Kevin1\Downloads\Login_Terminado\Login1\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Kevin1\Downloads\Login_Terminado\Login1\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Kevin1\Downloads\Login_Terminado\Login1\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Kevin1\Downloads\Login_Terminado\Login1\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Kevin1\Downloads\Login_Terminado\Login1\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Kevin1\Downloads\Login_Terminado\Login1\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Kevin1\Downloads\Login_Terminado\Login1\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Kevin1\Downloads\Login_Terminado\Login1\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Kevin1\Downloads\Login_Terminado\Login1\obj\Debug\net8.0-windows\Login1.Form1.resources
+C:\Users\Kevin1\Downloads\Login_Terminado\Login1\obj\Debug\net8.0-windows\Login1.Form2.resources
+C:\Users\Kevin1\Downloads\Login_Terminado\Login1\obj\Debug\net8.0-windows\Login1.Properties.Resources.resources
+C:\Users\Kevin1\Downloads\Login_Terminado\Login1\obj\Debug\net8.0-windows\Login1.csproj.GenerateResource.cache
+C:\Users\Kevin1\Downloads\Login_Terminado\Login1\obj\Debug\net8.0-windows\Login1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin1\Downloads\Login_Terminado\Login1\obj\Debug\net8.0-windows\Login1.AssemblyInfoInputs.cache
+C:\Users\Kevin1\Downloads\Login_Terminado\Login1\obj\Debug\net8.0-windows\Login1.AssemblyInfo.cs
+C:\Users\Kevin1\Downloads\Login_Terminado\Login1\obj\Debug\net8.0-windows\Login1.csproj.CoreCompileInputs.cache
+C:\Users\Kevin1\Downloads\Login_Terminado\Login1\obj\Debug\net8.0-windows\Login1.sourcelink.json
+C:\Users\Kevin1\Downloads\Login_Terminado\Login1\obj\Debug\net8.0-windows\Login1.csproj.Up2Date
+C:\Users\Kevin1\Downloads\Login_Terminado\Login1\obj\Debug\net8.0-windows\Login1.dll
+C:\Users\Kevin1\Downloads\Login_Terminado\Login1\obj\Debug\net8.0-windows\refint\Login1.dll
+C:\Users\Kevin1\Downloads\Login_Terminado\Login1\obj\Debug\net8.0-windows\Login1.pdb
+C:\Users\Kevin1\Downloads\Login_Terminado\Login1\obj\Debug\net8.0-windows\Login1.genruntimeconfig.cache
+C:\Users\Kevin1\Downloads\Login_Terminado\Login1\obj\Debug\net8.0-windows\ref\Login1.dll
